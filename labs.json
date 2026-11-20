@@ -1,0 +1,28 @@
+{
+  "format": "pdlc-studio/labs",
+  "version": 1,
+  "updatedAt": "2026-11-20T04:08:34Z",
+  "prototypes": [
+    {
+      "slug": "colab-wrapped-2026",
+      "name": "Colab Wrapped 2026",
+      "hypothesis": "A playful, two-minute end-of-year survey with an instant \"your year\" summary card gets more Colab community members to finish and share feedback than a standard form.",
+      "owner": "John Bowker",
+      "deployedAt": "2026-11-20T04:08:34Z",
+      "entries": [
+        {
+          "label": "Take the survey",
+          "path": ""
+        },
+        {
+          "label": "Community results",
+          "path": "#/results"
+        }
+      ],
+      "devices": [
+        "desktop",
+        "mobile"
+      ]
+    }
+  ]
+}
